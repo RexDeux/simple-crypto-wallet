@@ -1,0 +1,12 @@
+c:\Users\nmcdc\projects\wallet\target\debug\deps\secp256k1-ced9b45b78a27db1.rmeta: C:\Users\nmcdc\.cargo\registry\src\github.com-1ecc6299db9ec823\secp256k1-0.20.3\src\lib.rs C:\Users\nmcdc\.cargo\registry\src\github.com-1ecc6299db9ec823\secp256k1-0.20.3\src\macros.rs C:\Users\nmcdc\.cargo\registry\src\github.com-1ecc6299db9ec823\secp256k1-0.20.3\src\context.rs C:\Users\nmcdc\.cargo\registry\src\github.com-1ecc6299db9ec823\secp256k1-0.20.3\src\constants.rs C:\Users\nmcdc\.cargo\registry\src\github.com-1ecc6299db9ec823\secp256k1-0.20.3\src\ecdh.rs C:\Users\nmcdc\.cargo\registry\src\github.com-1ecc6299db9ec823\secp256k1-0.20.3\src\key.rs C:\Users\nmcdc\.cargo\registry\src\github.com-1ecc6299db9ec823\secp256k1-0.20.3\src\schnorrsig.rs C:\Users\nmcdc\.cargo\registry\src\github.com-1ecc6299db9ec823\secp256k1-0.20.3\src\recovery.rs
+
+c:\Users\nmcdc\projects\wallet\target\debug\deps\secp256k1-ced9b45b78a27db1.d: C:\Users\nmcdc\.cargo\registry\src\github.com-1ecc6299db9ec823\secp256k1-0.20.3\src\lib.rs C:\Users\nmcdc\.cargo\registry\src\github.com-1ecc6299db9ec823\secp256k1-0.20.3\src\macros.rs C:\Users\nmcdc\.cargo\registry\src\github.com-1ecc6299db9ec823\secp256k1-0.20.3\src\context.rs C:\Users\nmcdc\.cargo\registry\src\github.com-1ecc6299db9ec823\secp256k1-0.20.3\src\constants.rs C:\Users\nmcdc\.cargo\registry\src\github.com-1ecc6299db9ec823\secp256k1-0.20.3\src\ecdh.rs C:\Users\nmcdc\.cargo\registry\src\github.com-1ecc6299db9ec823\secp256k1-0.20.3\src\key.rs C:\Users\nmcdc\.cargo\registry\src\github.com-1ecc6299db9ec823\secp256k1-0.20.3\src\schnorrsig.rs C:\Users\nmcdc\.cargo\registry\src\github.com-1ecc6299db9ec823\secp256k1-0.20.3\src\recovery.rs
+
+C:\Users\nmcdc\.cargo\registry\src\github.com-1ecc6299db9ec823\secp256k1-0.20.3\src\lib.rs:
+C:\Users\nmcdc\.cargo\registry\src\github.com-1ecc6299db9ec823\secp256k1-0.20.3\src\macros.rs:
+C:\Users\nmcdc\.cargo\registry\src\github.com-1ecc6299db9ec823\secp256k1-0.20.3\src\context.rs:
+C:\Users\nmcdc\.cargo\registry\src\github.com-1ecc6299db9ec823\secp256k1-0.20.3\src\constants.rs:
+C:\Users\nmcdc\.cargo\registry\src\github.com-1ecc6299db9ec823\secp256k1-0.20.3\src\ecdh.rs:
+C:\Users\nmcdc\.cargo\registry\src\github.com-1ecc6299db9ec823\secp256k1-0.20.3\src\key.rs:
+C:\Users\nmcdc\.cargo\registry\src\github.com-1ecc6299db9ec823\secp256k1-0.20.3\src\schnorrsig.rs:
+C:\Users\nmcdc\.cargo\registry\src\github.com-1ecc6299db9ec823\secp256k1-0.20.3\src\recovery.rs:

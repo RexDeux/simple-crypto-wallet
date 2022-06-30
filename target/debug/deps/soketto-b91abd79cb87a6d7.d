@@ -1,0 +1,16 @@
+C:\Users\nmcdc\projects\wallet\target\debug\deps\soketto-b91abd79cb87a6d7.rmeta: C:\Users\nmcdc\.cargo\registry\src\github.com-1ecc6299db9ec823\soketto-0.5.0\src\lib.rs C:\Users\nmcdc\.cargo\registry\src\github.com-1ecc6299db9ec823\soketto-0.5.0\src\base.rs C:\Users\nmcdc\.cargo\registry\src\github.com-1ecc6299db9ec823\soketto-0.5.0\src\data.rs C:\Users\nmcdc\.cargo\registry\src\github.com-1ecc6299db9ec823\soketto-0.5.0\src\extension.rs C:\Users\nmcdc\.cargo\registry\src\github.com-1ecc6299db9ec823\soketto-0.5.0\src\handshake.rs C:\Users\nmcdc\.cargo\registry\src\github.com-1ecc6299db9ec823\soketto-0.5.0\src\handshake\client.rs C:\Users\nmcdc\.cargo\registry\src\github.com-1ecc6299db9ec823\soketto-0.5.0\src\handshake\server.rs C:\Users\nmcdc\.cargo\registry\src\github.com-1ecc6299db9ec823\soketto-0.5.0\src\connection.rs
+
+C:\Users\nmcdc\projects\wallet\target\debug\deps\libsoketto-b91abd79cb87a6d7.rlib: C:\Users\nmcdc\.cargo\registry\src\github.com-1ecc6299db9ec823\soketto-0.5.0\src\lib.rs C:\Users\nmcdc\.cargo\registry\src\github.com-1ecc6299db9ec823\soketto-0.5.0\src\base.rs C:\Users\nmcdc\.cargo\registry\src\github.com-1ecc6299db9ec823\soketto-0.5.0\src\data.rs C:\Users\nmcdc\.cargo\registry\src\github.com-1ecc6299db9ec823\soketto-0.5.0\src\extension.rs C:\Users\nmcdc\.cargo\registry\src\github.com-1ecc6299db9ec823\soketto-0.5.0\src\handshake.rs C:\Users\nmcdc\.cargo\registry\src\github.com-1ecc6299db9ec823\soketto-0.5.0\src\handshake\client.rs C:\Users\nmcdc\.cargo\registry\src\github.com-1ecc6299db9ec823\soketto-0.5.0\src\handshake\server.rs C:\Users\nmcdc\.cargo\registry\src\github.com-1ecc6299db9ec823\soketto-0.5.0\src\connection.rs
+
+C:\Users\nmcdc\projects\wallet\target\debug\deps\soketto-b91abd79cb87a6d7.d: C:\Users\nmcdc\.cargo\registry\src\github.com-1ecc6299db9ec823\soketto-0.5.0\src\lib.rs C:\Users\nmcdc\.cargo\registry\src\github.com-1ecc6299db9ec823\soketto-0.5.0\src\base.rs C:\Users\nmcdc\.cargo\registry\src\github.com-1ecc6299db9ec823\soketto-0.5.0\src\data.rs C:\Users\nmcdc\.cargo\registry\src\github.com-1ecc6299db9ec823\soketto-0.5.0\src\extension.rs C:\Users\nmcdc\.cargo\registry\src\github.com-1ecc6299db9ec823\soketto-0.5.0\src\handshake.rs C:\Users\nmcdc\.cargo\registry\src\github.com-1ecc6299db9ec823\soketto-0.5.0\src\handshake\client.rs C:\Users\nmcdc\.cargo\registry\src\github.com-1ecc6299db9ec823\soketto-0.5.0\src\handshake\server.rs C:\Users\nmcdc\.cargo\registry\src\github.com-1ecc6299db9ec823\soketto-0.5.0\src\connection.rs
+
+C:\Users\nmcdc\.cargo\registry\src\github.com-1ecc6299db9ec823\soketto-0.5.0\src\lib.rs:
+C:\Users\nmcdc\.cargo\registry\src\github.com-1ecc6299db9ec823\soketto-0.5.0\src\base.rs:
+C:\Users\nmcdc\.cargo\registry\src\github.com-1ecc6299db9ec823\soketto-0.5.0\src\data.rs:
+C:\Users\nmcdc\.cargo\registry\src\github.com-1ecc6299db9ec823\soketto-0.5.0\src\extension.rs:
+C:\Users\nmcdc\.cargo\registry\src\github.com-1ecc6299db9ec823\soketto-0.5.0\src\handshake.rs:
+C:\Users\nmcdc\.cargo\registry\src\github.com-1ecc6299db9ec823\soketto-0.5.0\src\handshake\client.rs:
+C:\Users\nmcdc\.cargo\registry\src\github.com-1ecc6299db9ec823\soketto-0.5.0\src\handshake\server.rs:
+C:\Users\nmcdc\.cargo\registry\src\github.com-1ecc6299db9ec823\soketto-0.5.0\src\connection.rs:
+
+# env-dep:CARGO_PKG_VERSION=0.5.0
